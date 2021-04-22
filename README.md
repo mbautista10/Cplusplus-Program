@@ -1,2 +1,7 @@
 # Cplusplus-Program
-I have decided to use the calculator assigment which was our first debugging projec and the start to the journey.
+
+I have decided to use the calculator assignment, our first debugging project, and the start of the journey. Our task was to find all the errors or bugs as called in the industry. I think debugging is an essential skill needed to succeed in the industry. It is very easy to forget something simple as a semicolon or a bracket, which could be a tremendous headache. Overall, I debugged the program correctly. I was able to find all the issues and added some of my code. For example, I allowed the users to enter ‘y’ or ‘Y’ when asked if they would like to evaluate another expression. 
+
+As far as code enhancement goes, I would say I need to research more on the security aspect. I am not familiar with which programs are more secure or if there is a code to make them secure. When it comes to the efficiency of the code, I have to make sure the right syntax is used and avoid any unnecessary variables on/or functions. The most challenging part of the code was the debugging process. For a beginner like me, it is very tedious to find minor errors. I firmly believe debugging is a skill transferable to any other project or course work. To conclude, to maintain the program, readable and adaptable, I tried to follow programming standards. A straightforward example is to add comments to the code for others to understand what is going on. 
+
+I am glad I took this course and that I learned a bunch of valuable information.  
